@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of the Analysis
-The Surf and Shake Shop, which sells surfing gear and ice cream, is currently in the process of finding locations for its first shop in Oahu. Due to concerns about weather conditions and its impact on sales, the business's investors would like an analysis of weather datasets from the island, particularly temperature trends during the months of June and December.  Data from the two months over the years 2010-2017 were extracted and analyzed to determine the summary statistics (count of values, standard deviation, and mean, minimum, maximum temperatures as well as 25th, 50th and 75th percentile temperature statistics). 
+The Surf and Shake Shop, which sells surfing gear and ice cream, is currently in the process of finding locations for its first shop in Oahu. Due to concerns about weather conditions and its impact on sales, the business's investors would like an analysis of weather datasets from the island, particularly temperature trends during the months of June and December.  Data from the two months over the years 2010-2017 were extracted and analyzed to determine the summary statistics (count of values, standard deviation, and mean, minimum, maximum temperatures as well as 25th, 50th and 75th percentile temperature statistics). Tools used for this analysis include Jupyter Notebook, SQLite, and SQAlchemy. 
 
 ## Results
 
